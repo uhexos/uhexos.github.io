@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "http://uhexos.github.io/"
+baseURL = "https://uhexos.github.io/"
 languageCode = "en-us"
 title = "Ugochukwu Nwokorobia | Personal Website"
 theme = "liva-hugo"
