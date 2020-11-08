@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ugochukwu Nwokorobia | Personal Website</title>
+    <link>http://uhexos.github.io/</link>
+    <description>Recent content on Ugochukwu Nwokorobia | Personal Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 08 Nov 2020 17:22:03 +0100</lastBuildDate><atom:link href="http://uhexos.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Building a Personal Site</title>
+      <link>http://uhexos.github.io/blog/building-a-personal-site/</link>
+      <pubDate>Sun, 08 Nov 2020 17:22:03 +0100</pubDate>
+      
+      <guid>http://uhexos.github.io/blog/building-a-personal-site/</guid>
+      <description>Building a personal website is something I’ve wanted to do for quite some time.</description>
+    </item>
+    
+    <item>
+      <title>Latest</title>
+      <link>http://uhexos.github.io/blog/latest/</link>
+      <pubDate>Sat, 07 Nov 2020 01:01:19 +0100</pubDate>
+      
+      <guid>http://uhexos.github.io/blog/latest/</guid>
+      <description>A recent Computer Science graduate with a First Class honours degree, looking to secure a position to use and further develop my analytical skills and knowledge in a practical and fast-paced environment.</description>
+    </item>
+    
+    <item>
+      <title>Learning Markdown3</title>
+      <link>http://uhexos.github.io/blog/learning-markdown3/</link>
+      <pubDate>Fri, 06 Nov 2020 16:27:23 +0100</pubDate>
+      
+      <guid>http://uhexos.github.io/blog/learning-markdown3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning Hugo</title>
+      <link>http://uhexos.github.io/blog/learning-hugo/</link>
+      <pubDate>Fri, 06 Nov 2020 16:04:01 +0100</pubDate>
+      
+      <guid>http://uhexos.github.io/blog/learning-hugo/</guid>
+      <description>yes jjnjononoj If you&amp;rsquo;re reading this I have mastered HUGO. If you&amp;rsquo;re reading this I yes have mastered HUGO.</description>
+    </item>
+    
+  </channel>
+</rss>
